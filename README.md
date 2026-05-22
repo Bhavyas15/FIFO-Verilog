@@ -1,6 +1,6 @@
 # FIFO Verilog Implementation
 
-##FIFO Designs in Verilog
+## FIFO Designs in Verilog
 
 This repository contains Verilog implementations of:
 - Synchronous FIFO (`fifo_sync.v`)
